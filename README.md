@@ -1,4 +1,4 @@
-# Vision-Assist-YOLO: Traffic Light & Crosswalk Detection
+# Vision-Assist-YOLOv5: Traffic Light & Crosswalk Detection
 
 ## Project Overview
 This project aims to assist visually impaired individuals in safely navigating intersections using Deep Learning. By leveraging the **YOLOv5** object detection model, the system can identify red lights, green lights, and zebra crossings in real-time through a simple webcam setup.

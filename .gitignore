@@ -220,3 +220,6 @@ __marimo__/
 # YOLOv5 Custom
 *.pt
 dataset/
+
+# MacOS
+.DS_Store

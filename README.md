@@ -28,7 +28,7 @@ The model achieved high precision during validation, particularly in identifying
   <img src="docs/demo_red.jpg" width="45%" />
 </p>
 
-## 📂 Repository Structure
+## Repository Structure
 ```text
 Vision-Assist-YOLO/
 ├── docs/                                # Project documentation and demo images
